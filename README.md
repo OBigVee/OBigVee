@@ -1,5 +1,6 @@
-### Hi there 👋 I'm Victor niked OBigVee
-[![Twitter Follow](/twitter/url?url=https%3A%2F%2Fshields.io https://twitter.com/OBigVee)]
+### Hi there 👋 I'm Victor nikenamed OBigVee
+[![Twitter Follow](https://img.shields.io/badge/Twitter-follow%20me-blue)]( https://twitter.com/OBigVee)
+
 <!--https://img.shields.io/badge/Twitter-follow%20me-blue
 https://twitter.com/OBigVee
 -->
@@ -10,9 +11,7 @@ https://twitter.com/OBigVee
 <!--
 **OBigVee/OBigVee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on  Computer Vision Project
+- 🔭 I’m currently working on a Computer Vision Project
 - 🌱 I’m currently learning literally everything
 - 👯 I’m looking to collaborate on projects that interest me
 - ⚡ Fun fact: ...
