@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning literally everything 🤣
 - 👯 I’m looking to collaborate on projects that interest me
 
-<details>
+<!-- <details>
   <summary>:zap: Recent Github Activity</summary>
 </details>
 
@@ -20,3 +20,4 @@
 
 
 </details>
+ -->
