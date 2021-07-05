@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Victor nikenamed OBigVee
+### Hi there 👋 I'm Victor nikenamed O.BigVee
 [![Twitter Follow](https://img.shields.io/badge/Twitter-follow%20me-blue)]( https://twitter.com/OBigVee)
 
 ## i'm a Math Student with zeal in Computer Vision and Software Development.  
