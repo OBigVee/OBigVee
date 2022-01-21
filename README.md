@@ -14,10 +14,8 @@
  
  
   
-<!-- ![Vic's GitHub stats](https://github-readme-stats.vercel.app/api?username=obigvee&show_icons=true&theme=highcontrast)
- <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Vick's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Obigvee&langs_count=8&count_private=true&layout=compact&theme=highcontrast&hide_border=true&bg_color=0A524E" /></a>   -->
- 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=obigvee&hide=javascript,css,scss,html&theme=tokyonight)
+ ![Vic's GitHub stats](https://github-readme-stats.vercel.app/api?username=obigvee&show_icons=true&theme=highcontrast)
+ <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Vick's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Obigvee&langs_count=8&count_private=true&layout=compact&theme=highcontrast&hide_border=true&bg_color=0A524E" /></a>   
 
 
 
