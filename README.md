@@ -12,10 +12,11 @@
 - 👯 I’m looking to collaborate on projects that interest me. --> 
 
  
- 
-  
- ![Vic's GitHub stats](https://github-readme-stats.vercel.app/api?username=obigvee&show_icons=true&theme=highcontrast)
- <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Vick's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Obigvee&langs_count=8&count_private=true&layout=compact&theme=highcontrast&hide_border=true&bg_color=0A524E" /></a>   
+ ![](https://github.com/obigvee/vic-Stats/blob/master/generated/overview.svg)
+  ![](https://github.com/obigvee/vic-Stats/blob/master/generated/languages.svg)
+<!--  ![Vic's GitHub stats](https://github-readme-stats.vercel.app/api?username=obigvee&show_icons=true&theme=highcontrast) -->
+
+<!-- <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Vick's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Obigvee&langs_count=8&count_private=true&layout=compact&theme=highcontrast&hide_border=true&bg_color=0A524E" /></a>   -->
 
 
 
