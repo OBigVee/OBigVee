@@ -2,7 +2,7 @@
 [![Twitter Follow](https://img.shields.io/badge/Twitter-follow%20me-blue)]( https://twitter.com/OBigVee)
 
 ##### I'm a Math Guy with AI intrest for Computer Vision, Software Development and Systems
-- I love dismantling and assembling Neural Networks.
+- I enjoy dismantling and assembling Neural Networks.
 
 <!--
 **OBigVee/OBigVee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
