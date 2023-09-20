@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Victor nicknamed O.BigVee
 [![Twitter Follow](https://img.shields.io/badge/Twitter-follow%20me-blue)]( https://twitter.com/OBigVee)
 
-##### I'm a Math guy with intrest in Ai, Computer Vision, Software Development and Systems and Low level stuffs
+##### I'm a Math guy with intrest in Ai, Computer Vision, Software Development Systems and Low level stuffs
 - I enjoy dismantling and assembling Neural Networks.
 
 <!--
