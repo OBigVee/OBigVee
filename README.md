@@ -7,7 +7,7 @@
 <!--
 **OBigVee/OBigVee** is a ✨ _special_ ✨ repository because gits `README.md` (this file) appears on your GitHub profile.-->
 
-<!-- - 🔭 I’m currently working on a Computer Vision Project
+<!-- - 🔭 I’m currently working on  Computer Vision Projects
 - 🌱 I’m currently learning literally everything i can in software engineering🤣
 - 👯 I’m looking to collaborate on projects that interest me. --> 
 
