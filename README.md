@@ -1,11 +1,11 @@
 ### Hi there 👋 I'm Victor, my nickname is O.BigVee
-[![Twitter Follow](https://img.shields.io/badge/Twitter-follow%20me-blue)]( https://twitter.com/OBigVee)
+[![X Follow](https://img.shields.io/badge/X-follow%20me-blue)]( https://twitter.com/OBigVee)
 
-##### I'm a Math guy with interest in AI, Computer Vision, Software Development Systems, and Low level kinds of stuff
+##### I'm a Math guy with an interest in AI, Computer Vision, Software Development Systems, and Low-level kinds of stuff
 - I enjoy dismantling and assembling Neural Networks.
 
 <!--
-**OBigVee/OBigVee** is a ✨ _special_ ✨ repository because gits `README.md` (this file) appears on your GitHub profile.-->
+**OBigVee/OBigVee** is a ✨ _special_ ✨ repository because gits `README.md` (this file) appear on your GitHub profile.-->
 
 <!-- - 🔭 I’m currently working on  Computer Vision Projects
 - 🌱 I’m currently learning literally everything i can in software engineering🤣
